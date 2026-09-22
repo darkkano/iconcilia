@@ -1,0 +1,1 @@
+{"version":3,"file":"chunk.js","sourceRoot":"","sources":["../../../src/domain/entities/chunk.ts"],"names":[],"mappings":"AAIA,MAAM,OAAO,KAAK;IAEE;IACA;IACA;IACA;IACA;IALlB,YACkB,EAAU,EACV,UAAkB,EAClB,KAAa,EACb,IAAY,EACZ,SAAmB;QAJnB,OAAE,GAAF,EAAE,CAAQ;QACV,eAAU,GAAV,UAAU,CAAQ;QAClB,UAAK,GAAL,KAAK,CAAQ;QACb,SAAI,GAAJ,IAAI,CAAQ;QACZ,cAAS,GAAT,SAAS,CAAU;IAClC,CAAC;CACL"}
